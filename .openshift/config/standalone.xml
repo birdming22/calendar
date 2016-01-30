@@ -1,0 +1,2 @@
+<extension module="org.jboss.as.jaxrs"/>
+<subsystem xmlns="urn:jboss:domain:jaxrs:1.0"/>
