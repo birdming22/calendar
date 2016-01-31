@@ -1,4 +1,4 @@
-package com.tenzenway.calendar.rest;
+package com.tenzenway.calendar;
 
 import java.util.Calendar;
 import java.util.Date;
@@ -9,7 +9,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
-import com.tenzenway.calendar.rest.model.V1DateResponse;
+import com.tenzenway.calendar.model.V1DateResponse;
 
 /**
  * 

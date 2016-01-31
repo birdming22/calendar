@@ -1,4 +1,4 @@
-package com.tenzenway.calendar.rest.model;
+package com.tenzenway.calendar.model;
 
 public class V1DateResponse
 {
