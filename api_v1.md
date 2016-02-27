@@ -17,3 +17,16 @@ Get date from seconds
       "second": 0
     }
 
+## Solar Term
+
+Get solar term from milliseconds
+
+    GET /v1.0/solarterm/{date-in-milliseconds}
+
+### Response
+
+    {
+      "year": 2016,
+      "id": 1
+    }
+
