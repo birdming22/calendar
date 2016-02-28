@@ -17,6 +17,10 @@
 				<enabled>true</enabled>
 			</snapshots>
 		</repository>
+		<repository>
+			<id>jitpack.io</id>
+			<url>https://jitpack.io</url>
+		</repository>
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
@@ -72,6 +76,11 @@
 		    <artifactId>junit</artifactId>
 		    <version>4.12</version>
         <scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.github.birdming22</groupId>
+			<artifactId>calendar-lib</artifactId>
+			<version>v0.1</version>
 		</dependency>
 	</dependencies>
 	<profiles>
