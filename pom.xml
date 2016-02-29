@@ -80,7 +80,7 @@
 		<dependency>
 			<groupId>com.github.birdming22</groupId>
 			<artifactId>calendar-lib</artifactId>
-			<version>v0.1</version>
+			<version>0.1.1</version>
 		</dependency>
 	</dependencies>
 	<profiles>
